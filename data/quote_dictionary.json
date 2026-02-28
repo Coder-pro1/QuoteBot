@@ -1,0 +1,1234 @@
+[
+    {
+        "id": "q1",
+        "text": "I am going to be king of the pirates!",
+        "type": "quote",
+        "character": "Monkey D. Luffy",
+        "source": "One Piece",
+        "emotion": "ambition",
+        "usecase": "When the user is starting a big project, chasing a difficult goal, or needs motivation to dream big and overcome limitations."
+    },
+    {
+        "id": "q2",
+        "text": "Bazinga!",
+        "type": "catchphrase",
+        "character": "Sheldon Cooper",
+        "source": "The Big Bang Theory",
+        "emotion": "humor",
+        "usecase": "When the user is feeling down, stressed, or just needs a lighthearted response to break the tension and make them smile."
+    },
+    {
+        "id": "q3",
+        "text": "I am inevitable.",
+        "type": "quote",
+        "character": "Thanos",
+        "source": "Avengers: Endgame",
+        "emotion": "power",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q4",
+        "text": "Believe it!",
+        "type": "catchphrase",
+        "character": "Naruto",
+        "source": "Naruto",
+        "emotion": "enthusiasm",
+        "usecase": "When the user is starting a new journey, feeling hyped about an upcoming event, or needs energetic encouragement."
+    },
+    {
+        "id": "q5",
+        "text": "May the Force be with you.",
+        "type": "quote",
+        "character": "Various",
+        "source": "Star Wars",
+        "emotion": "hope",
+        "usecase": "When the user is going through a dark time, facing despair or failure, and needs a reminder that things will get better."
+    },
+    {
+        "id": "q6",
+        "text": "I'm not in danger, Skyler. I am the danger.",
+        "type": "quote",
+        "character": "Walter White",
+        "source": "Breaking Bad",
+        "emotion": "anger",
+        "usecase": "When the user is dealing with an annoying situation, someone making them mad, or needs to express frustration."
+    },
+    {
+        "id": "q7",
+        "text": "Do, or do not. There is no try.",
+        "type": "quote",
+        "character": "Yoda",
+        "source": "Star Wars",
+        "emotion": "determination",
+        "usecase": "When the user wants to give up, is facing repeated failures, or needs to find the inner strength to keep pushing forward."
+    },
+    {
+        "id": "q8",
+        "text": "Just keep swimming.",
+        "type": "catchphrase",
+        "character": "Dory",
+        "source": "Finding Nemo",
+        "emotion": "perseverance",
+        "usecase": "When the user wants to give up, is facing repeated failures, or needs to find the inner strength to keep pushing forward."
+    },
+    {
+        "id": "q9",
+        "text": "To infinity and beyond!",
+        "type": "catchphrase",
+        "character": "Buzz Lightyear",
+        "source": "Toy Story",
+        "emotion": "excitement",
+        "usecase": "When the user is starting a new journey, feeling hyped about an upcoming event, or needs energetic encouragement."
+    },
+    {
+        "id": "q10",
+        "text": "Why so serious?",
+        "type": "catchphrase",
+        "character": "The Joker",
+        "source": "The Dark Knight",
+        "emotion": "humor",
+        "usecase": "When the user is feeling down, stressed, or just needs a lighthearted response to break the tension and make them smile."
+    },
+    {
+        "id": "q11",
+        "text": "I'll be back.",
+        "type": "catchphrase",
+        "character": "The Terminator",
+        "source": "The Terminator",
+        "emotion": "confidence",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q12",
+        "text": "Houston, we have a problem.",
+        "type": "quote",
+        "character": "Jim Lovell",
+        "source": "Apollo 13",
+        "emotion": "crisis",
+        "usecase": "When the user is dealing with a sudden problem, feeling anxious about the future, or realizes they are in over their head."
+    },
+    {
+        "id": "q13",
+        "text": "There's no place like home.",
+        "type": "quote",
+        "character": "Dorothy",
+        "source": "The Wizard of Oz",
+        "emotion": "nostalgia",
+        "usecase": "When the user is missing home, feeling lonely, or needs to be reminded of the importance of family and roots."
+    },
+    {
+        "id": "q14",
+        "text": "You can't handle the truth!",
+        "type": "quote",
+        "character": "Col. Jessep",
+        "source": "A Few Good Men",
+        "emotion": "frustration",
+        "usecase": "When the user is dealing with an annoying situation, someone making them mad, or needs to express frustration."
+    },
+    {
+        "id": "q15",
+        "text": "Life is like a box of chocolates. You never know what you're gonna get.",
+        "type": "quote",
+        "character": "Forrest Gump",
+        "source": "Forrest Gump",
+        "emotion": "uncertainty",
+        "usecase": "When the user is facing the unknown, making a big life decision, or needs to embrace the unpredictability of life."
+    },
+    {
+        "id": "q16",
+        "text": "You're gonna need a bigger boat.",
+        "type": "catchphrase",
+        "character": "Martin Brody",
+        "source": "Jaws",
+        "emotion": "overwhelmed",
+        "usecase": "When the user is dealing with a sudden problem, feeling anxious about the future, or realizes they are in over their head."
+    },
+    {
+        "id": "q17",
+        "text": "Winter is coming.",
+        "type": "catchphrase",
+        "character": "Ned Stark",
+        "source": "Game of Thrones",
+        "emotion": "warning",
+        "usecase": "When the user is dealing with a sudden problem, feeling anxious about the future, or realizes they are in over their head."
+    },
+    {
+        "id": "q18",
+        "text": "I am the one who knocks!",
+        "type": "quote",
+        "character": "Walter White",
+        "source": "Breaking Bad",
+        "emotion": "power",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q19",
+        "text": "That's what she said.",
+        "type": "catchphrase",
+        "character": "Michael Scott",
+        "source": "The Office",
+        "emotion": "humor",
+        "usecase": "When the user is feeling down, stressed, or just needs a lighthearted response to break the tension and make them smile."
+    },
+    {
+        "id": "q20",
+        "text": "Clear eyes, full hearts, can't lose.",
+        "type": "quote",
+        "character": "Coach Taylor",
+        "source": "Friday Night Lights",
+        "emotion": "determination",
+        "usecase": "When the user wants to give up, is facing repeated failures, or needs to find the inner strength to keep pushing forward."
+    },
+    {
+        "id": "q21",
+        "text": "How you doing?",
+        "type": "catchphrase",
+        "character": "Joey Tribbiani",
+        "source": "Friends",
+        "emotion": "greeting",
+        "usecase": "When the user says hello or acknowledges something, and needs a casual, friendly, or iconic greeting in response."
+    },
+    {
+        "id": "q22",
+        "text": "You is kind, you is smart, you is important.",
+        "type": "quote",
+        "character": "Aibileen Clark",
+        "source": "The Help",
+        "emotion": "encouragement",
+        "usecase": "When the user is doubting themselves, facing an exam, and needs a strong push to believe in their own hidden potential."
+    },
+    {
+        "id": "q23",
+        "text": "With great power comes great responsibility.",
+        "type": "quote",
+        "character": "Uncle Ben",
+        "source": "Spider-Man",
+        "emotion": "responsibility",
+        "usecase": "When the user is dealing with a situation related to responsibility, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q24",
+        "text": "Elementary, my dear Watson.",
+        "type": "catchphrase",
+        "character": "Sherlock Holmes",
+        "source": "Sherlock Holmes",
+        "emotion": "intelligence",
+        "usecase": "When the user is questioning who they are, feeling lost, trying to study, or needs philosophical guidance to find their path."
+    },
+    {
+        "id": "q25",
+        "text": "Here's looking at you, kid.",
+        "type": "quote",
+        "character": "Rick Blaine",
+        "source": "Casablanca",
+        "emotion": "affection",
+        "usecase": "When the user is thinking about someone they love, trying to confess their feelings, or reflecting on deep connections."
+    },
+    {
+        "id": "q26",
+        "text": "It's not who I am underneath, but what I do that defines me.",
+        "type": "quote",
+        "character": "Batman",
+        "source": "Batman Begins",
+        "emotion": "identity",
+        "usecase": "When the user is questioning who they are, feeling lost, trying to study, or needs philosophical guidance to find their path."
+    },
+    {
+        "id": "q27",
+        "text": "You've got a friend in me.",
+        "type": "catchphrase",
+        "character": "Woody",
+        "source": "Toy Story",
+        "emotion": "friendship",
+        "usecase": "When the user is thinking about someone they love, trying to confess their feelings, or reflecting on deep connections."
+    },
+    {
+        "id": "q28",
+        "text": "Hakuna Matata.",
+        "type": "catchphrase",
+        "character": "Timon and Pumbaa",
+        "source": "The Lion King",
+        "emotion": "carefree",
+        "usecase": "When the user is starting a new journey, feeling hyped about an upcoming event, or needs energetic encouragement."
+    },
+    {
+        "id": "q29",
+        "text": "To boldly go where no man has gone before.",
+        "type": "catchphrase",
+        "character": "Captain Kirk",
+        "source": "Star Trek",
+        "emotion": "exploration",
+        "usecase": "When the user is facing the unknown, making a big life decision, or needs to embrace the unpredictability of life."
+    },
+    {
+        "id": "q30",
+        "text": "It ain't about how hard you hit. It's about how hard you can get hit and keep moving forward.",
+        "type": "quote",
+        "character": "Rocky Balboa",
+        "source": "Rocky Balboa",
+        "emotion": "resilience",
+        "usecase": "When the user wants to give up, is facing repeated failures, or needs to find the inner strength to keep pushing forward."
+    },
+    {
+        "id": "q31",
+        "text": "I'm the king of the world!",
+        "type": "catchphrase",
+        "character": "Jack Dawson",
+        "source": "Titanic",
+        "emotion": "excitement",
+        "usecase": "When the user is starting a new journey, feeling hyped about an upcoming event, or needs energetic encouragement."
+    },
+    {
+        "id": "q32",
+        "text": "Get to the choppa!",
+        "type": "catchphrase",
+        "character": "Dutch",
+        "source": "Predator",
+        "emotion": "urgency",
+        "usecase": "When the user is starting a new journey, feeling hyped about an upcoming event, or needs energetic encouragement."
+    },
+    {
+        "id": "q33",
+        "text": "Say hello to my little friend!",
+        "type": "catchphrase",
+        "character": "Tony Montana",
+        "source": "Scarface",
+        "emotion": "aggression",
+        "usecase": "When the user is dealing with an annoying situation, someone making them mad, or needs to express frustration."
+    },
+    {
+        "id": "q34",
+        "text": "You talking to me?",
+        "type": "catchphrase",
+        "character": "Travis Bickle",
+        "source": "Taxi Driver",
+        "emotion": "confrontation",
+        "usecase": "When the user is dealing with an annoying situation, someone making them mad, or needs to express frustration."
+    },
+    {
+        "id": "q35",
+        "text": "Ohana means family. Family means nobody gets left behind.",
+        "type": "quote",
+        "character": "Lilo",
+        "source": "Lilo and Stitch",
+        "emotion": "belonging",
+        "usecase": "When the user is missing home, feeling lonely, or needs to be reminded of the importance of family and roots."
+    },
+    {
+        "id": "q36",
+        "text": "The stuff that dreams are made of.",
+        "type": "quote",
+        "character": "Sam Spade",
+        "source": "The Maltese Falcon",
+        "emotion": "wonder",
+        "usecase": "When the user is facing the unknown, making a big life decision, or needs to embrace the unpredictability of life."
+    },
+    {
+        "id": "q37",
+        "text": "After all this time? Always.",
+        "type": "quote",
+        "character": "Severus Snape",
+        "source": "Harry Potter and the Deathly Hallows",
+        "emotion": "devotion",
+        "usecase": "When the user is thinking about someone they love, trying to confess their feelings, or reflecting on deep connections."
+    },
+    {
+        "id": "q38",
+        "text": "We accept the love we think we deserve.",
+        "type": "quote",
+        "character": "Mr. Anderson",
+        "source": "The Perks of Being a Wallflower",
+        "emotion": "sadness",
+        "usecase": "When the user is grieving, feeling depressed, experiencing loss, or needs comfort and acknowledgment of their painful emotions."
+    },
+    {
+        "id": "q39",
+        "text": "It's a trap!",
+        "type": "catchphrase",
+        "character": "Admiral Ackbar",
+        "source": "Star Wars: Return of the Jedi",
+        "emotion": "warning",
+        "usecase": "When the user is dealing with a sudden problem, feeling anxious about the future, or realizes they are in over their head."
+    },
+    {
+        "id": "q40",
+        "text": "I have a dream.",
+        "type": "quote",
+        "character": "Martin Luther King Jr.",
+        "source": "I Have a Dream Speech",
+        "emotion": "hope",
+        "usecase": "When the user is going through a dark time, facing despair or failure, and needs a reminder that things will get better."
+    },
+    {
+        "id": "q41",
+        "text": "I volunteer as tribute.",
+        "type": "quote",
+        "character": "Katniss Everdeen",
+        "source": "The Hunger Games",
+        "emotion": "sacrifice",
+        "usecase": "When the user is grieving, feeling depressed, experiencing loss, or needs comfort and acknowledgment of their painful emotions."
+    },
+    {
+        "id": "q42",
+        "text": "Every passing minute is another chance to turn it all around.",
+        "type": "quote",
+        "character": "Sofia Serrano",
+        "source": "Vanilla Sky",
+        "emotion": "hope",
+        "usecase": "When the user is going through a dark time, facing despair or failure, and needs a reminder that things will get better."
+    },
+    {
+        "id": "q43",
+        "text": "You had me at hello.",
+        "type": "quote",
+        "character": "Dorothy Boyd",
+        "source": "Jerry Maguire",
+        "emotion": "affection",
+        "usecase": "When the user is thinking about someone they love, trying to confess their feelings, or reflecting on deep connections."
+    },
+    {
+        "id": "q44",
+        "text": "Nobody puts Baby in a corner.",
+        "type": "quote",
+        "character": "Johnny Castle",
+        "source": "Dirty Dancing",
+        "emotion": "protective",
+        "usecase": "When the user is thinking about someone they love, trying to confess their feelings, or reflecting on deep connections."
+    },
+    {
+        "id": "q45",
+        "text": "To the stars and beyond, the universe is yours.",
+        "type": "quote",
+        "character": "Gustavo",
+        "source": "Encanto",
+        "emotion": "ambition",
+        "usecase": "When the user is starting a big project, chasing a difficult goal, or needs motivation to dream big and overcome limitations."
+    },
+    {
+        "id": "q46",
+        "text": "I'm the greatest!",
+        "type": "catchphrase",
+        "character": "Muhammad Ali",
+        "source": "Real Life",
+        "emotion": "confidence",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q47",
+        "text": "The greatest teacher, failure is.",
+        "type": "quote",
+        "character": "Yoda",
+        "source": "Star Wars: The Last Jedi",
+        "emotion": "learning",
+        "usecase": "When the user is questioning who they are, feeling lost, trying to study, or needs philosophical guidance to find their path."
+    },
+    {
+        "id": "q48",
+        "text": "Wubba lubba dub dub!",
+        "type": "catchphrase",
+        "character": "Rick Sanchez",
+        "source": "Rick and Morty",
+        "emotion": "chaos",
+        "usecase": "When the user is feeling down, stressed, or just needs a lighthearted response to break the tension and make them smile."
+    },
+    {
+        "id": "q49",
+        "text": "How I met your mother? It's a long story.",
+        "type": "catchphrase",
+        "character": "Ted Mosby",
+        "source": "How I Met Your Mother",
+        "emotion": "nostalgia",
+        "usecase": "When the user is missing home, feeling lonely, or needs to be reminded of the importance of family and roots."
+    },
+    {
+        "id": "q50",
+        "text": "Suit up!",
+        "type": "catchphrase",
+        "character": "Barney Stinson",
+        "source": "How I Met Your Mother",
+        "emotion": "enthusiasm",
+        "usecase": "When the user is starting a new journey, feeling hyped about an upcoming event, or needs energetic encouragement."
+    },
+    {
+        "id": "q51",
+        "text": "I feel the need \u2014 the need for speed.",
+        "type": "catchphrase",
+        "character": "Maverick",
+        "source": "Top Gun",
+        "emotion": "excitement",
+        "usecase": "When the user is starting a new journey, feeling hyped about an upcoming event, or needs energetic encouragement."
+    },
+    {
+        "id": "q52",
+        "text": "I don't want to survive. I want to live.",
+        "type": "quote",
+        "character": "Solomon Northup",
+        "source": "12 Years a Slave",
+        "emotion": "sadness",
+        "usecase": "When the user is grieving, feeling depressed, experiencing loss, or needs comfort and acknowledgment of their painful emotions."
+    },
+    {
+        "id": "q53",
+        "text": "All we have to decide is what to do with the time that is given us.",
+        "type": "quote",
+        "character": "Gandalf",
+        "source": "The Lord of the Rings: The Fellowship of the Ring",
+        "emotion": "wisdom",
+        "usecase": "When the user is questioning who they are, feeling lost, trying to study, or needs philosophical guidance to find their path."
+    },
+    {
+        "id": "q54",
+        "text": "Not all those who wander are lost.",
+        "type": "quote",
+        "character": "Aragorn",
+        "source": "The Lord of the Rings",
+        "emotion": "wonder",
+        "usecase": "When the user is facing the unknown, making a big life decision, or needs to embrace the unpredictability of life."
+    },
+    {
+        "id": "q55",
+        "text": "It does not do to dwell on dreams and forget to live.",
+        "type": "quote",
+        "character": "Albus Dumbledore",
+        "source": "Harry Potter and the Philosopher's Stone",
+        "emotion": "sadness",
+        "usecase": "When the user is grieving, feeling depressed, experiencing loss, or needs comfort and acknowledgment of their painful emotions."
+    },
+    {
+        "id": "q56",
+        "text": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+        "type": "quote",
+        "character": "Christopher Robin",
+        "source": "Winnie the Pooh",
+        "emotion": "encouragement",
+        "usecase": "When the user is doubting themselves, facing an exam, and needs a strong push to believe in their own hidden potential."
+    },
+    {
+        "id": "q57",
+        "text": "In every job that must be done, there is an element of fun.",
+        "type": "quote",
+        "character": "Mary Poppins",
+        "source": "Mary Poppins",
+        "emotion": "positivity",
+        "usecase": "When the user is starting a new journey, feeling hyped about an upcoming event, or needs energetic encouragement."
+    },
+    {
+        "id": "q58",
+        "text": "We're gonna need a bigger team.",
+        "type": "catchphrase",
+        "character": "Nick Fury",
+        "source": "The Avengers",
+        "emotion": "overwhelmed",
+        "usecase": "When the user is dealing with a sudden problem, feeling anxious about the future, or realizes they are in over their head."
+    },
+    {
+        "id": "q59",
+        "text": "I understood that reference.",
+        "type": "catchphrase",
+        "character": "Steve Rogers",
+        "source": "The Avengers",
+        "emotion": "humor",
+        "usecase": "When the user is feeling down, stressed, or just needs a lighthearted response to break the tension and make them smile."
+    },
+    {
+        "id": "q60",
+        "text": "That's my secret, Cap. I'm always angry.",
+        "type": "quote",
+        "character": "Bruce Banner",
+        "source": "The Avengers",
+        "emotion": "anger",
+        "usecase": "When the user is dealing with an annoying situation, someone making them mad, or needs to express frustration."
+    },
+    {
+        "id": "q61",
+        "text": "Hello there!",
+        "type": "catchphrase",
+        "character": "Obi-Wan Kenobi",
+        "source": "Star Wars: Revenge of the Sith",
+        "emotion": "greeting",
+        "usecase": "When the user says hello or acknowledges something, and needs a casual, friendly, or iconic greeting in response."
+    },
+    {
+        "id": "q62",
+        "text": "I know.",
+        "type": "catchphrase",
+        "character": "Han Solo",
+        "source": "Star Wars: The Empire Strikes Back",
+        "emotion": "confidence",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q63",
+        "text": "Suit up!",
+        "type": "catchphrase",
+        "character": "Barney Stinson",
+        "source": "How I Met Your Mother",
+        "emotion": "excitement",
+        "usecase": "When the user is starting a new journey, feeling hyped about an upcoming event, or needs energetic encouragement."
+    },
+    {
+        "id": "q64",
+        "text": "Legendary!",
+        "type": "catchphrase",
+        "character": "Barney Stinson",
+        "source": "How I Met Your Mother",
+        "emotion": "enthusiasm",
+        "usecase": "When the user is starting a new journey, feeling hyped about an upcoming event, or needs energetic encouragement."
+    },
+    {
+        "id": "q65",
+        "text": "Did I do that?",
+        "type": "catchphrase",
+        "character": "Steve Urkel",
+        "source": "Family Matters",
+        "emotion": "humor",
+        "usecase": "When the user is feeling down, stressed, or just needs a lighthearted response to break the tension and make them smile."
+    },
+    {
+        "id": "q66",
+        "text": "Cool cool cool cool cool.",
+        "type": "catchphrase",
+        "character": "Jake Peralta",
+        "source": "Brooklyn Nine-Nine",
+        "emotion": "acknowledgment",
+        "usecase": "When the user says hello or acknowledges something, and needs a casual, friendly, or iconic greeting in response."
+    },
+    {
+        "id": "q67",
+        "text": "Aw, man!",
+        "type": "catchphrase",
+        "character": "Finn the Human",
+        "source": "Adventure Time",
+        "emotion": "surprise",
+        "usecase": "When the user is feeling down, stressed, or just needs a lighthearted response to break the tension and make them smile."
+    },
+    {
+        "id": "q68",
+        "text": "That's what she said.",
+        "type": "catchphrase",
+        "character": "Michael Scott",
+        "source": "The Office",
+        "emotion": "humor",
+        "usecase": "When the user is feeling down, stressed, or just needs a lighthearted response to break the tension and make them smile."
+    },
+    {
+        "id": "q69",
+        "text": "You miss 100% of the shots you don't take.",
+        "type": "quote",
+        "character": "Wayne Gretzky",
+        "source": "Unknown / Popularized in sports movies",
+        "emotion": "inspirational",
+        "usecase": "When the user is doubting themselves, facing an exam, and needs a strong push to believe in their own hidden potential."
+    },
+    {
+        "id": "q70",
+        "text": "You cannot hide the truth forever. Speak what\u2019s in your heart.",
+        "type": "quote",
+        "character": "Tsunade",
+        "source": "Naruto",
+        "emotion": "encouraging",
+        "usecase": "When the user is doubting themselves, facing an exam, and needs a strong push to believe in their own hidden potential."
+    },
+    {
+        "id": "q71",
+        "text": "You have to be brave enough to say 'I love you' and risk everything.",
+        "type": "quote",
+        "character": "Noah Calhoun",
+        "source": "The Notebook",
+        "emotion": "romantic",
+        "usecase": "When the user is thinking about someone they love, trying to confess their feelings, or reflecting on deep connections."
+    },
+    {
+        "id": "q72",
+        "text": "It\u2019s not about winning or losing. It\u2019s about taking the chance to express yourself.",
+        "type": "quote",
+        "character": "Hinata Hyuga",
+        "source": "Naruto",
+        "emotion": "hopeful",
+        "usecase": "When the user is going through a dark time, facing despair or failure, and needs a reminder that things will get better."
+    },
+    {
+        "id": "q73",
+        "text": "To confess your feelings is the bravest thing you can do.",
+        "type": "quote",
+        "character": "Shouya Ishida",
+        "source": "A Silent Voice",
+        "emotion": "emotional",
+        "usecase": "When the user is dealing with a situation related to emotional, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q74",
+        "text": "The greatest risk is not taking one. Speak your heart before it\u2019s too late.",
+        "type": "quote",
+        "character": "Peter Parker",
+        "source": "Spider-Man",
+        "emotion": "motivational",
+        "usecase": "When the user is doubting themselves, facing an exam, and needs a strong push to believe in their own hidden potential."
+    },
+    {
+        "id": "q75",
+        "text": "Even if you get rejected, at least you have the courage to try.",
+        "type": "quote",
+        "character": "Haru Yoshida",
+        "source": "My Little Monster",
+        "emotion": "reassuring",
+        "usecase": "When the user is going through a dark time, facing despair or failure, and needs a reminder that things will get better."
+    },
+    {
+        "id": "q76",
+        "text": "Life\u2019s too short to stay silent about your feelings.",
+        "type": "quote",
+        "character": "Luna Lovegood",
+        "source": "Harry Potter",
+        "emotion": "wise",
+        "usecase": "When the user is dealing with a situation related to wise, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q77",
+        "text": "No matter how deep the darkness, there is always a path forward.",
+        "type": "quote",
+        "character": "Tanjiro Kamado",
+        "source": "Demon Slayer",
+        "emotion": "hopeful",
+        "usecase": "When the user is going through a dark time, facing despair or failure, and needs a reminder that things will get better."
+    },
+    {
+        "id": "q78",
+        "text": "Strength isn\u2019t about never falling. It\u2019s about rising every time you do.",
+        "type": "quote",
+        "character": "Kyojuro Rengoku",
+        "source": "Demon Slayer",
+        "emotion": "motivational",
+        "usecase": "When the user is doubting themselves, facing an exam, and needs a strong push to believe in their own hidden potential."
+    },
+    {
+        "id": "q79",
+        "text": "Your limits are only as real as you believe them to be.",
+        "type": "quote",
+        "character": "Satoru Gojo",
+        "source": "Jujutsu Kaisen",
+        "emotion": "confident",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q80",
+        "text": "Power belongs to those who dare to claim it.",
+        "type": "quote",
+        "character": "Ryomen Sukuna",
+        "source": "Jujutsu Kaisen",
+        "emotion": "dominant",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q81",
+        "text": "If the world knocks you down, stand up and hit back harder.",
+        "type": "quote",
+        "character": "Denji",
+        "source": "Chainsaw Man",
+        "emotion": "rebellious",
+        "usecase": "When the user is dealing with an annoying situation, someone making them mad, or needs to express frustration."
+    },
+    {
+        "id": "q82",
+        "text": "Talent means nothing without relentless effort.",
+        "type": "quote",
+        "character": "Tobio Kageyama",
+        "source": "Haikyuu!!",
+        "emotion": "driven",
+        "usecase": "When the user is starting a big project, chasing a difficult goal, or needs motivation to dream big and overcome limitations."
+    },
+    {
+        "id": "q83",
+        "text": "If you don\u2019t take a step forward, nothing will change.",
+        "type": "quote",
+        "character": "Shoyo Hinata",
+        "source": "Haikyuu!!",
+        "emotion": "inspiring",
+        "usecase": "When the user is doubting themselves, facing an exam, and needs a strong push to believe in their own hidden potential."
+    },
+    {
+        "id": "q84",
+        "text": "Freedom is worth fighting for, no matter the cost.",
+        "type": "quote",
+        "character": "Eren Yeager",
+        "source": "Attack on Titan",
+        "emotion": "determined",
+        "usecase": "When the user wants to give up, is facing repeated failures, or needs to find the inner strength to keep pushing forward."
+    },
+    {
+        "id": "q85",
+        "text": "The world may be cruel, but that doesn\u2019t mean you have to be.",
+        "type": "quote",
+        "character": "Mikasa Ackerman",
+        "source": "Attack on Titan",
+        "emotion": "reflective",
+        "usecase": "When the user is questioning who they are, feeling lost, trying to study, or needs philosophical guidance to find their path."
+    },
+    {
+        "id": "q86",
+        "text": "Dreams don\u2019t work unless you chase them.",
+        "type": "quote",
+        "character": "Monkey D. Luffy",
+        "source": "One Piece",
+        "emotion": "adventurous",
+        "usecase": "When the user is starting a new journey, feeling hyped about an upcoming event, or needs energetic encouragement."
+    },
+    {
+        "id": "q87",
+        "text": "Being weak is just the starting point.",
+        "type": "quote",
+        "character": "Sung Jin-Woo",
+        "source": "Solo Leveling",
+        "emotion": "resilient",
+        "usecase": "When the user wants to give up, is facing repeated failures, or needs to find the inner strength to keep pushing forward."
+    },
+    {
+        "id": "q88",
+        "text": "Every battle makes you sharper than before.",
+        "type": "quote",
+        "character": "Sung Jin-Woo",
+        "source": "Solo Leveling",
+        "emotion": "growth",
+        "usecase": "When the user is questioning who they are, feeling lost, trying to study, or needs philosophical guidance to find their path."
+    },
+    {
+        "id": "q89",
+        "text": "Stand tall, even when fear tries to bend you.",
+        "type": "quote",
+        "character": "Kyojuro Rengoku",
+        "source": "Demon Slayer",
+        "emotion": "courageous",
+        "usecase": "When the user is afraid of taking a risk, facing a scary situation (like a test or interview), and needs the bravery to face it."
+    },
+    {
+        "id": "q90",
+        "text": "The strong shape the world.",
+        "type": "quote",
+        "character": "Ryomen Sukuna",
+        "source": "Jujutsu Kaisen",
+        "emotion": "intense",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q91",
+        "text": "You miss 100% of the attacks you hesitate to make.",
+        "type": "quote",
+        "character": "Shoyo Hinata",
+        "source": "Haikyuu!!",
+        "emotion": "bold",
+        "usecase": "When the user is afraid of taking a risk, facing a scary situation (like a test or interview), and needs the bravery to face it."
+    },
+    {
+        "id": "q92",
+        "text": "The sea is vast, and so are your possibilities.",
+        "type": "quote",
+        "character": "Monkey D. Luffy",
+        "source": "One Piece",
+        "emotion": "hopeful",
+        "usecase": "When the user is going through a dark time, facing despair or failure, and needs a reminder that things will get better."
+    },
+    {
+        "id": "q93",
+        "text": "If survival demands strength, then I will become stronger.",
+        "type": "quote",
+        "character": "Sung Jin-Woo",
+        "source": "Solo Leveling",
+        "emotion": "determined",
+        "usecase": "When the user wants to give up, is facing repeated failures, or needs to find the inner strength to keep pushing forward."
+    },
+    {
+        "id": "q94",
+        "text": "Pain is temporary. Growth lasts forever.",
+        "type": "quote",
+        "character": "Yuji Itadori",
+        "source": "Jujutsu Kaisen",
+        "emotion": "motivational",
+        "usecase": "When the user is doubting themselves, facing an exam, and needs a strong push to believe in their own hidden potential."
+    },
+    {
+        "id": "q95",
+        "text": "Courage is choosing to move forward despite fear.",
+        "type": "quote",
+        "character": "Tanjiro Kamado",
+        "source": "Demon Slayer",
+        "emotion": "brave",
+        "usecase": "When the user is afraid of taking a risk, facing a scary situation (like a test or interview), and needs the bravery to face it."
+    },
+    {
+        "id": "q96",
+        "text": "The future belongs to those who refuse to give up.",
+        "type": "quote",
+        "character": "Eren Yeager",
+        "source": "Attack on Titan",
+        "emotion": "ambitious",
+        "usecase": "When the user is dealing with a situation related to ambitious, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q97",
+        "text": "I am the hope of the universe.",
+        "type": "quote",
+        "character": "Monkey D. Luffy",
+        "source": "One Piece",
+        "emotion": "heroic",
+        "usecase": "When the user is afraid of taking a risk, facing a scary situation (like a test or interview), and needs the bravery to face it."
+    },
+    {
+        "id": "q98",
+        "text": "Stand proud. You are strong.",
+        "type": "quote",
+        "character": "Ryomen Sukuna",
+        "source": "Jujutsu Kaisen",
+        "emotion": "intimidating",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q99",
+        "text": "Set your heart ablaze.",
+        "type": "quote",
+        "character": "Kyojuro Rengoku",
+        "source": "Demon Slayer",
+        "emotion": "inspiring",
+        "usecase": "When the user is doubting themselves, facing an exam, and needs a strong push to believe in their own hidden potential."
+    },
+    {
+        "id": "q100",
+        "text": "I will keep moving forward.",
+        "type": "quote",
+        "character": "Eren Yeager",
+        "source": "Attack on Titan",
+        "emotion": "relentless",
+        "usecase": "When the user wants to give up, is facing repeated failures, or needs to find the inner strength to keep pushing forward."
+    },
+    {
+        "id": "q101",
+        "text": "I am going to be the King of the Pirates!",
+        "type": "quote",
+        "character": "Monkey D. Luffy",
+        "source": "One Piece",
+        "emotion": "ambitious",
+        "usecase": "When the user is dealing with a situation related to ambitious, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q102",
+        "text": "Throughout heaven and earth, I alone am the honored one.",
+        "type": "quote",
+        "character": "Satoru Gojo",
+        "source": "Jujutsu Kaisen",
+        "emotion": "supreme",
+        "usecase": "When the user is dealing with a situation related to supreme, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q103",
+        "text": "Arise.",
+        "type": "quote",
+        "character": "Sung Jin-Woo",
+        "source": "Solo Leveling",
+        "emotion": "commanding",
+        "usecase": "When the user is dealing with a situation related to commanding, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q104",
+        "text": "Plus Ultra!",
+        "type": "quote",
+        "character": "All Might",
+        "source": "My Hero Academia",
+        "emotion": "motivational",
+        "usecase": "When the user is doubting themselves, facing an exam, and needs a strong push to believe in their own hidden potential."
+    },
+    {
+        "id": "q105",
+        "text": "A real ninja never gives up.",
+        "type": "quote",
+        "character": "Naruto Uzumaki",
+        "source": "Naruto",
+        "emotion": "determined",
+        "usecase": "When the user wants to give up, is facing repeated failures, or needs to find the inner strength to keep pushing forward."
+    },
+    {
+        "id": "q106",
+        "text": "If you win, you live. If you lose, you die.",
+        "type": "quote",
+        "character": "Eren Yeager",
+        "source": "Attack on Titan",
+        "emotion": "intense",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q107",
+        "text": "Surpass your limits.",
+        "type": "quote",
+        "character": "Satoru Gojo",
+        "source": "Jujutsu Kaisen",
+        "emotion": "challenging",
+        "usecase": "When the user is dealing with a situation related to challenging, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q108",
+        "text": "I\u2019ll become stronger than anyone.",
+        "type": "quote",
+        "character": "Sung Jin-Woo",
+        "source": "Solo Leveling",
+        "emotion": "driven",
+        "usecase": "When the user is starting a big project, chasing a difficult goal, or needs motivation to dream big and overcome limitations."
+    },
+    {
+        "id": "q109",
+        "text": "Hard work beats talent when talent doesn\u2019t work hard.",
+        "type": "quote",
+        "character": "Tobio Kageyama",
+        "source": "Haikyuu!!",
+        "emotion": "competitive",
+        "usecase": "When the user is dealing with a situation related to competitive, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q110",
+        "text": "No matter how deep the night, it always turns to day.",
+        "type": "quote",
+        "character": "Brook",
+        "source": "One Piece",
+        "emotion": "hopeful",
+        "usecase": "When the user is going through a dark time, facing despair or failure, and needs a reminder that things will get better."
+    },
+    {
+        "id": "q111",
+        "text": "Those who cannot sacrifice anything cannot change anything.",
+        "type": "quote",
+        "character": "Armin Arlert",
+        "source": "Attack on Titan",
+        "emotion": "philosophical",
+        "usecase": "When the user is facing the unknown, making a big life decision, or needs to embrace the unpredictability of life."
+    },
+    {
+        "id": "q112",
+        "text": "I am the strongest.",
+        "type": "quote",
+        "character": "Satoru Gojo",
+        "source": "Jujutsu Kaisen",
+        "emotion": "confident",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q113",
+        "text": "The weak have no rights or choices.",
+        "type": "quote",
+        "character": "Ryomen Sukuna",
+        "source": "Jujutsu Kaisen",
+        "emotion": "cold",
+        "usecase": "When the user is dealing with a situation related to cold, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q114",
+        "text": "I don\u2019t care how many times I fall. I will rise.",
+        "type": "quote",
+        "character": "Tanjiro Kamado",
+        "source": "Demon Slayer",
+        "emotion": "resilient",
+        "usecase": "When the user wants to give up, is facing repeated failures, or needs to find the inner strength to keep pushing forward."
+    },
+    {
+        "id": "q115",
+        "text": "Victory belongs to those who believe in it.",
+        "type": "quote",
+        "character": "Shoyo Hinata",
+        "source": "Haikyuu!!",
+        "emotion": "optimistic",
+        "usecase": "When the user is dealing with a situation related to optimistic, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q116",
+        "text": "The throne is earned, not given.",
+        "type": "quote",
+        "character": "Sung Jin-Woo",
+        "source": "Solo Leveling",
+        "emotion": "dominant",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q117",
+        "text": "Wake up to reality. Nothing ever goes as planned in this world.",
+        "type": "quote",
+        "character": "Madara Uchiha",
+        "source": "Naruto Shippuden",
+        "emotion": "philosophical",
+        "usecase": "When the user is facing the unknown, making a big life decision, or needs to embrace the unpredictability of life."
+    },
+    {
+        "id": "q118",
+        "text": "I am justice!",
+        "type": "quote",
+        "character": "Light Yagami",
+        "source": "Death Note",
+        "emotion": "delusional",
+        "usecase": "When the user is dealing with a situation related to delusional, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q119",
+        "text": "The world isn\u2019t perfect. But it\u2019s there for us, trying the best it can.",
+        "type": "quote",
+        "character": "Roy Mustang",
+        "source": "Fullmetal Alchemist: Brotherhood",
+        "emotion": "hopeful",
+        "usecase": "When the user is going through a dark time, facing despair or failure, and needs a reminder that things will get better."
+    },
+    {
+        "id": "q120",
+        "text": "Arise.",
+        "type": "quote",
+        "character": "Sung Jin-Woo",
+        "source": "Solo Leveling",
+        "emotion": "commanding",
+        "usecase": "When the user is dealing with a situation related to commanding, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q121",
+        "text": "I am the storm that is approaching.",
+        "type": "quote",
+        "character": "Vergil",
+        "source": "Devil May Cry",
+        "emotion": "menacing",
+        "usecase": "When the user is dealing with a situation related to menacing, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q122",
+        "text": "Whatever you lose, you\u2019ll find it again if you move forward.",
+        "type": "quote",
+        "character": "Monkey D. Luffy",
+        "source": "One Piece",
+        "emotion": "encouraging",
+        "usecase": "When the user is doubting themselves, facing an exam, and needs a strong push to believe in their own hidden potential."
+    },
+    {
+        "id": "q123",
+        "text": "A lesson without pain is meaningless.",
+        "type": "quote",
+        "character": "Edward Elric",
+        "source": "Fullmetal Alchemist: Brotherhood",
+        "emotion": "reflective",
+        "usecase": "When the user is questioning who they are, feeling lost, trying to study, or needs philosophical guidance to find their path."
+    },
+    {
+        "id": "q124",
+        "text": "I reject it all.",
+        "type": "quote",
+        "character": "Eren Yeager",
+        "source": "Attack on Titan",
+        "emotion": "defiant",
+        "usecase": "When the user is dealing with a situation related to defiant, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q125",
+        "text": "Surpass your limits. Right here, right now.",
+        "type": "quote",
+        "character": "Yami Sukehiro",
+        "source": "Black Clover",
+        "emotion": "intense",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q126",
+        "text": "I am atomic.",
+        "type": "quote",
+        "character": "Cid Kagenou",
+        "source": "The Eminence in Shadow",
+        "emotion": "dramatic",
+        "usecase": "When the user is dealing with a situation related to dramatic, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q127",
+        "text": "I am going to be the Pirate King!",
+        "type": "quote",
+        "character": "Monkey D. Luffy",
+        "source": "One Piece",
+        "emotion": "ambitious",
+        "usecase": "When the user is dealing with a situation related to ambitious, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q128",
+        "text": "You should enjoy the little detours to the fullest.",
+        "type": "quote",
+        "character": "Ging Freecss",
+        "source": "Hunter x Hunter",
+        "emotion": "wise",
+        "usecase": "When the user is dealing with a situation related to wise, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q129",
+        "text": "I am the hope of the universe.",
+        "type": "quote",
+        "character": "Goku",
+        "source": "Dragon Ball Z",
+        "emotion": "heroic",
+        "usecase": "When the user is afraid of taking a risk, facing a scary situation (like a test or interview), and needs the bravery to face it."
+    },
+    {
+        "id": "q130",
+        "text": "The weak are destined to lie beneath the boots of the strong.",
+        "type": "quote",
+        "character": "Ryomen Sukuna",
+        "source": "Jujutsu Kaisen",
+        "emotion": "cold",
+        "usecase": "When the user is dealing with a situation related to cold, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q131",
+        "text": "Those who stand at the top determine what\u2019s wrong and what\u2019s right.",
+        "type": "quote",
+        "character": "Donquixote Doflamingo",
+        "source": "One Piece",
+        "emotion": "cynical",
+        "usecase": "When the user is dealing with a situation related to cynical, needing generalized advice or comments of that nature."
+    },
+    {
+        "id": "q132",
+        "text": "I am the strongest.",
+        "type": "quote",
+        "character": "Satoru Gojo",
+        "source": "Jujutsu Kaisen",
+        "emotion": "confident",
+        "usecase": "When the user is facing a daunting challenge, needs a boost in self-esteem, or wants to feel powerful and unstoppable."
+    },
+    {
+        "id": "q133",
+        "text": "Push through the pain. Giving up hurts more.",
+        "type": "quote",
+        "character": "Vegeta",
+        "source": "Dragon Ball Z",
+        "emotion": "driven",
+        "usecase": "When the user is starting a big project, chasing a difficult goal, or needs motivation to dream big and overcome limitations."
+    },
+    {
+        "id": "q134",
+        "text": "No matter how many times you fall, get back up.",
+        "type": "quote",
+        "character": "Tanjiro Kamado",
+        "source": "Demon Slayer",
+        "emotion": "resilient",
+        "usecase": "When the user wants to give up, is facing repeated failures, or needs to find the inner strength to keep pushing forward."
+    },
+    {
+        "id": "q135",
+        "text": "You can die anytime, but living takes true courage.",
+        "type": "quote",
+        "character": "Kenshin Himura",
+        "source": "Rurouni Kenshin",
+        "emotion": "inspirational",
+        "usecase": "When the user is doubting themselves, facing an exam, and needs a strong push to believe in their own hidden potential."
+    },
+    {
+        "id": "q136",
+        "text": "In our society, letting others find out that you\u2019re a nice guy is a death sentence.",
+        "type": "quote",
+        "character": "Levi Ackerman",
+        "source": "Attack on Titan",
+        "emotion": "realistic",
+        "usecase": "When the user is dealing with a situation related to realistic, needing generalized advice or comments of that nature."
+    },
+    {
+        "text": "Are you the strongest because you are Satoru Gojo, or are you Satoru Gojo because you are the strongest?",
+        "character": "Suguru Geto",
+        "source": "Jujutsu Kaisen",
+        "emotion": "philosophical",
+        "type": "quote",
+        "usecase": "When the user is facing the unknown, making a big life decision, or needs to embrace the unpredictability of life."
+    }
+]
